@@ -1,4 +1,5 @@
 #!/bin/bash
+#used to test
 
 LOG_FILE="sample.log"
 
